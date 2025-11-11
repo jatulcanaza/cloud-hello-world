@@ -1,0 +1,18 @@
+{
+  "name": "heroku-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World en Heroku con Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": ["heroku", "docker", "nodejs", "express"],
+  "author": "Roddy Ortega",
+  "license": "MIT"
+}
