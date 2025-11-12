@@ -43,3 +43,49 @@ docker push aceofglass14/hello-multicloud:backblaze
 
 ### Docker image uploaded
 ![DockerHub Evidence](img/dockerhub.png)
+
+---
+
+## Step-by-step tutorial for uploading images to Backblaze
+
+### Step 1: Log in
+1. Go to [https://secure.backblaze.com](https://secure.backblaze.com)
+2. Log in with your account.
+3. In the top menu → select Buckets.
+
+---
+
+### Step 2: Create or select a bucket
+1. Click **‘Create a Bucket’** if you do not already have one.
+2. Assign a name (for example, `hello-b2`).
+3. Under ‘Bucket Type’, select **Public**.
+4. Save your changes.
+
+---
+
+### Step 3: Create folders
+1. Inside the bucket, click **‘Upload / Browse Files’**.
+2. Create a folder `img/`.
+3. Create a folder `css/` (if it does not exist).
+
+---
+
+### Step 4: Upload the images
+1. Go to the `img/` folder.
+2. Click on **Upload → Files**.
+3. Select the images (`logo.png`, `1.jpg`, `2.jpg`, etc.).
+4. Before confirming, look for the **Set Content Type manually** option (if it appears).
+   - Enter `image/jpeg` or `image/png` as appropriate.
+5. Click on Upload.
+
+---
+Step 5: Verify MIME type
+After uploading, check:
+1. In the file list → look for the Content Type column.
+2. Confirm that each file has the correct type.
+---
+Step 6: Check display
+Open in your browser:
+https://f005.backblazeb2.com/file/hello-b2/index.html
+---
+
