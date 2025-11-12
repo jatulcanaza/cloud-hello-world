@@ -31,7 +31,7 @@ This project is part of the academic work of **Juan Tulcanaza** at the **Central
 
 ## 🌐 Live Demo
 
-- **Website URL:** https://vercel-hello-world-theta-seven.vercel.app/
+- **Website URL:** https://cloud-hello-world.vercel.app/
 - **GitHub Repository:** https://github.com/jatulcanaza/cloud-hello-world
 
 ## 🧩 Installation & Local Execution
