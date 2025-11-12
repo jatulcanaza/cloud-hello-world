@@ -29,6 +29,7 @@ https://f005.backblazeb2.com/file/hello-b2/index.html
 ```bash
 docker build -t aceofglass14/hello-multicloud:backblaze .
 docker push aceofglass14/hello-multicloud:backblaze
+```
 
 ---
 
