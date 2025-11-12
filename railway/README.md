@@ -146,17 +146,17 @@ Copy the project URL and add it to the README
 1️⃣ DockerHub Image
 Repository on DockerHub — Image uploaded successfully with tags and description.
 
-<p align="center"><img src="https://github.com/jatulcanaza/cloud-hello-world/blob/main/railway/img/dockerhub.png?raw=true" width="760" alt="DockerHub Screenshot"></p>
+<p align="center"><img src="https://github.com/jatulcanaza/cloud-hello-world/blob/railway/railway/img/dockerhub.png?raw=true" width="760" alt="DockerHub Screenshot"></p>
 
 2️⃣ Railway Deployment
 Deployment process — Successful deployment.
 
-<p align="center"><img src="https://github.com/jatulcanaza/cloud-hello-world/blob/main/railway/img/railway.png?raw=true" width="760" alt="Railway Deployment"></p>
+<p align="center"><img src="https://github.com/jatulcanaza/cloud-hello-world/blob/railway/railway/img/railway.png?raw=true" width="760" alt="Railway Deployment"></p>
 
 3️⃣ Running Application
 App in production — Static website running correctly on Railway.
 
-<p align="center"><img src="https://github.com/jatulcanaza/cloud-hello-world/blob/main/railway/img/app.png?raw=true" width="760" alt="Live App Screenshot"></p>
+<p align="center"><img src="https://github.com/jatulcanaza/cloud-hello-world/blob/railway/railway/img/app.png?raw=true" width="760" alt="Live App Screenshot"></p>
 
 ## ✅ Advantages of Railway Hosting
 
