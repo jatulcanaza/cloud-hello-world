@@ -76,4 +76,3 @@ Anthony Chamorro
 Student – Central University of Ecuador
 📅 November 2025
 💬 Project: Deployment of a simple web app using AWS EC2 and Docker
-
