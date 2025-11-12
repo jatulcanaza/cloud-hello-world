@@ -39,10 +39,10 @@ docker push aceofglass14/hello-multicloud:backblaze
 ## Evidence
 
 ### Successful deployment on Netlify
-![Deployment Panel](img/deploy.png)
+!Deployment Panel(img/deploy.png)
 
 ### Site up and running
-![Browser displaying Hello World](img/browser.png)
+!Browser displaying Hello World(img/browser.png)
 
 ### Docker image uploaded
-![DockerHub Evidence](img/dockerhub.png)
+!DockerHub Evidence(img/dockerhub.png)
